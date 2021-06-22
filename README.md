@@ -1,5 +1,6 @@
 # Pokemon_Catcher
 Idealizadores do Projeto: Bernardo Vargas, Fernanda Durão, João Pedro Menezes, Maria Fernanda Machado
+
 Instruções:
   - Rode o jogo
   - Aperte P para iniciar
